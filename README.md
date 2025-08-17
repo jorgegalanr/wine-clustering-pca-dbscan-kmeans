@@ -62,9 +62,6 @@ Wine Quality dataset from [UCI Machine Learning Repository](https://archive.ics.
 - K-Means identificó entre 4 y 5 clusters principales.
 - DBSCAN detectó vinos con características atípicas (outliers).
 
-Example PCA visualization:  
-![PCA Clusters](reports/figures/pca_clusters.png)
-
 ---
 
 ## 🚀 How to Run
